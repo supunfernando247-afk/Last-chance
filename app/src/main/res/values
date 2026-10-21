@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Everly AI</string>
+</resources>
+<resources>
+    <style name="Theme.EverlyAI" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#080B14</item>
+        <item name="android:navigationBarColor">#080B14</item>
+    </style>
+</resources>
